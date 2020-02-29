@@ -3,3 +3,10 @@ olá mundo....
 Aprendendo a usar o github,
 
 Vamos colocar este txt disponível no github
+-----------------------------------------------------
+ok sucesso, arquivo no repos online
+-----------------------------------------------------
+
+incluindo mais linhas e aprendendo como o github trabalha com mudanças
+no arquivo
+*****************************************************
